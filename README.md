@@ -1,2 +1,3 @@
 # rent_analysis_bezrealitky.cz
-Scraping and Tableau analysis of website Bezrealitky.cz
+When my friends and I were looking for a new rental house, I decided to do a price analysis in various locations in the Czech Republic.
+I had to scrape the data from Bezrealitky's website, then do some data cleaning and then visualize it using Tableau.
